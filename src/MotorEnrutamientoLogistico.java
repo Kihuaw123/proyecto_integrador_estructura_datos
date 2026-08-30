@@ -2,7 +2,7 @@ import java.util.*;
 
 public class MotorEnrutamientoLogistico {
 
-    // Nombres de las sedes según el enunciado del proyecto
+    
     private static final String[] NOMBRES_SEDES = {
             "QUITO", "MANTA", "GUAYAQUIL", "AMBATO", "CUENCA"
     };
